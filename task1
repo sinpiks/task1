@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="outlines.css">
+    <title>Портфолио Junior верстальщика</title>
+  </head>
+
+  <body bgcolor="#9c7ca1">
+    <header class="page-header">
+      <p align="center">tg: sinpiks</p>
+<p align="center">number: +7 952 600 0540</p>
+    </header>
+
+    <section class="hero-image">
+      <h1 class="heading" align="center">Диклова Дарья Ивановна</h1>
+      <p align="center">Junior верстальщик</p>
+    </section>
+
+    <section class="intro">
+      <h2 class="subheading" align="center">Давайте познакомимся</h2>
+      <h3 align="center">Пара слов обо мне</h3>
+      <p align="center">Добрая, справедливая, чесная, дружелюбная, ответсвенная, веселая и, конечно, трудолюбивая! Люблю лыжи!</p>
+      <h3 align="center">Чем я могу быть полезна?</h3>
+      <p align="center">Могу сделать все, что будет мне интересно.</p>
+    </section>
+
+    <section class="portfolio">
+      <h2 class="subheading" align="center">Мои работы</h2>
+
+      <h3 align="center">Магазин товаров для дома</h3>
+      <p align="center">Мой первый сайт.</p>
+
+      <h3 align="center">Блог начинающего верстальщика</h3>
+      <p align="center">Статический блог про обучение HTML и CSS.</p>
+    </section>
+
+    <footer class="page-footer">
+      <p align="center">tg: sinpiks</p>
+<p align="center">number: +7 952 600 0540</p>
+    </footer>
+  </body>
+</html>
